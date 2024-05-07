@@ -58,8 +58,6 @@ volutpat maecenas.
 as sysdba  SELECT;
 ----
 
-Unfortunately, looks like  there's not a copy button.
-
 ===== Reuse text
 Elit ut aliquam purus sit amet luctus venenatis lectus magna.
 
