@@ -1,0 +1,5 @@
+*Does reuse work with ASCII?*
+[NOTE]
+=====================
+Can notes be reused as well?
+=====================
