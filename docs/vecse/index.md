@@ -105,7 +105,6 @@
             -   [Approximate Search Using HNSW](GUID-3D072E54-00AC-4C73-AECF-2B9113A58F4A.md)
             -   [Approximate Search Using IVF](GUID-AB45B8A4-26D2-49CC-B807-C1B009B6644B.md)
     -   [Perform Multi-Vector Similarity Search](GUID-F5ACF1FB-87C8-4051-872D-63E408480EC8.md)
-    -   [Perform Combined Similarity and Text Search](GUID-B2AFB10D-7490-49A2-9E19-F980AA15818C.md)
 -   [Work with Retrieval Augmented Generation](GUID-AF82CA2B-5B40-4B05-AD1E-E990A4C1BF86.md)
     -   [Compliment LLMs with Oracle AI Vector Search](GUID-5C0AF503-C6E4-492B-A451-5E02A9F66C38.md)
     -   [SQL RAG Example](GUID-C859F916-A03E-4609-8C65-0B792ADB91FB.md)
