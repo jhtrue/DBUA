@@ -7,7 +7,7 @@ publisherinformation: May2024
 
 Choose to implement Vector Utility PL/SQL packages to perform chunking, embedding, and text generation operations along with text processing and similarity search, within and outside Oracle Database.
 
-Vector Utility PL/SQL APIs work with both the ONNX embedding models \(loaded into the database\) and third-party REST providers, such as Cohere, Google AI, Hugging Face, Oracle Cloud Infrastructure \(OCI\) Generative AI, OpenAI, or Vertex AI. You can create, run, and schedule end-to-end data transformation and search pipelines.
+Vector Utility PL/SQL APIs work with both the ONNX embedding models \(loaded into the database\) and third-party REST providers, such as Cohere, Google AI, Hugging Face, Oracle Cloud Infrastructure \(OCI\) Generative AI, OpenAI, or Vertex AI. 
 
 These packages are made up of subprograms, such as *chainable utility functions* and *vector helper procedures*.
 
