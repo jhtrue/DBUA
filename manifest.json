@@ -3,9 +3,9 @@
   "help": "livelabs-help-db_us@oracle.com",
   "tutorials": [
     {
-      "title": "Introduction",
+      "title": "Hierarchical Navigable Small World Index Syntax and Parameter",
       "description": "This lab provides information about the Oracle Data Safe workshop.",
-      "filename": "README.md",
+      "filename": "docs/vecse/GUID-0D538811-D59F-46FB-9453-1A6BD822EEED.md",
       "type": "freetier"
     }
   ]
